@@ -174,7 +174,7 @@ ENCRYPTION_KEY="your-passphrase-here"
 ### Installation
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/organization/northbridge-android.git
+    git clone https://github.com/alfinohatta/northbridge.git
     ```
 2.  **Initialize environment**:
     ```bash
