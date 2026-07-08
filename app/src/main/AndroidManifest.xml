@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:name=".NorthbridgeApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Northbridge">
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".ForecastActivity"
+            android:exported="false"
+            android:label="Risk Quantification" />
+
+        <activity
+            android:name=".HedgeActivity"
+            android:exported="false"
+            android:label="Exposure Mitigation" />
+
+        <activity
+            android:name=".ExecuteHedgeActivity"
+            android:exported="false"
+            android:label="Execute Hedge" />
+
+        <activity
+            android:name=".AuditLogActivity"
+            android:exported="false"
+            android:label="Governance Audit" />
+
+        <activity
+            android:name=".CalibrationActivity"
+            android:exported="false"
+            android:label="Expert Calibration" />
+
+        <activity
+            android:name=".EventTrendActivity"
+            android:exported="false"
+            android:label="Divergence Analysis" />
+
+        <activity
+            android:name=".NotificationActivity"
+            android:exported="false"
+            android:label="Alerts" />
+
+        <activity
+            android:name=".ReportActivity"
+            android:exported="false"
+            android:label="Executive Summary" />
+
+    </application>
+
+</manifest>

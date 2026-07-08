@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Palette: Deep Navy & Slate -->
+    <color name="primary">#002D72</color>
+    <color name="primary_dark">#001C46</color>
+    <color name="primary_light">#E3F2FD</color>
+
+    <color name="secondary">#607D8B</color>
+    <color name="accent">#008291</color>
+
+    <!-- Status Colors -->
+    <color name="success">#2E7D32</color>
+    <color name="error">#C62828</color>
+    <color name="warning">#F9A825</color>
+    <color name="info">#1565C0</color>
+
+    <!-- Neutral Palette -->
+    <color name="background">#F8F9FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#212121</color>
+    <color name="on_surface_variant">#757575</color>
+    <color name="outline">#DEE2E6</color>
+
+    <!-- Brand Specific -->
+    <color name="gold_accent">#D4AF37</color>
+    <color name="divergence_high">#E64A19</color>
+    <color name="divergence_low">#43A047</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>
