@@ -4,7 +4,7 @@
 [![Platform: Android](https://img.shields.io/badge/Platform-Android-3DDC84.svg?logo=android&logoColor=white)](https://developer.android.com)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-7F52FF.svg?logo=kotlin&logoColor=white)](https://kotlinlang.org)
 
-Northbridge Analytics is an enterprise-grade decision-support ecosystem designed to bridge the gap between internal expert judgment and external market data. By capturing, quantifying, and benchmarking private internal forecasts against real-time prediction markets and financial data, Northbridge provides CFOs and Risk Officers with a structured, auditable pipeline for high-stakes decision-making.
+Northbridge Analytics is a decision-support ecosystem designed to bridge the gap between internal expert judgment and external market data. By capturing, quantifying, and benchmarking private internal forecasts against real-time prediction markets and financial data, Northbridge provides CFOs and Risk Officers with a structured, auditable pipeline for high-stakes decision-making.
 
 ---
 
